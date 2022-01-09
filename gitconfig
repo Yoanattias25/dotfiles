@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yoanattias25@gmail.com
+	name = Yoan Attias
